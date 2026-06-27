@@ -1,131 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:georss="http://www.georss.org/georss">
-<author>
-<name>Queensland Police Service</name>
-</author>
-<id>urn:uuid:c4350152-e877-4e10-be86-43b6e36e4600</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<subtitle>QLD Severe Weather Alerts updated regularly</subtitle>
-<title>QLD Severe Weather Alert Feed</title>
-<updated>2026-05-06T01:03:25.443863Z</updated>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Emergency Warning"/>
-<content>The Burdekin Local Disaster Management Group advises people in the Burdekin Local Government Area to MONITOR CONDITIONS for MINOR flooding on the Burdekin River at Inkerman Bridge. The Burdekin River at Inkerman Bridge (Burdekin Bridge) is currently at 7.30 m and rising, with minor flooding. The Burdekin River at Inkerman Bridge may peak near 8.00 m during Wednesday, with minor flooding. Further showers and thunderstorms are forecast across the catchment over the next few days, which may cause additional river level rises across the Burdekin River catchment. The situation is being monitored, and this warning will be updated as required. For emergency help in floods and storms, call the QLD SES on 132 500 or download the SES Assistance QLD App. In life threatening situations, call Triple Zero (000) immediately.</content>
-<id>urn:uuid:f2bb5dd8-854d-4b00-b4c1-50f0296a0aa7</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>Changed - Burdekin Shire Council - FLOOD - Issued at 11:00am, Tuesday 24 February 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Advice"/>
-<content>STAY INFORMED – Severe Weather Warning - http://www.bom.gov.au/products/IDQ21033.shtml Weather Situation: A moist and unstable airmass offshore of Bundaberg is producing heavy falls in showers and thunderstorms through the Wide Bay and Burnett this evening. Severe thunderstorms are likely to produce heavy rainfall that may lead to flash flooding in the warning area over the next several hours. Locations which may be affected include Hervey Bay.</content>
-<id>urn:uuid:0d52d8f1-1d95-4f63-846e-0ef501bcc4b2</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>STAY INFORMED - Fraser Coast LGA - SEVERE WEATHER (Storm) - Issued at 8:21pm, Friday 28 March</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Emergency Warning"/>
-<content>The Burdekin Local Disaster Management Group advises people in the Burdekin Local Government Area to MONITOR CONDITIONS for MINOR flooding on the Burdekin River at Inkerman Bridge. The Burdekin River at Inkerman Bridge (Burdekin Bridge) is currently at 7.30 m and rising, with minor flooding. The Burdekin River at Inkerman Bridge may peak near 8.00 m during Wednesday, with minor flooding.Further showers and thunderstorms are forecast across the catchment over the next few days, which may cause additional river level rises across the Burdekin River catchment. The situation is being monitored, and this warning will be updated as required.</content>
-<id>urn:uuid:ec3b7648-2171-43fa-b36e-ba360deba46b</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>MONITOR CONDITIONS - Burdekin Shire - Flood - Issued at 11:00am, Tuesday 24 February 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Advice"/>
-<content>This warning is from the Townsville Local Disaster Management Group (TLDMG). Due to severe weather conditions, there is a chance of heavy to locally intense rainfall which could lead to flooding in these areas. Prepare now - conditions could change quickly and become dangerous. For flood and storm emergency help, call the SES on 132 500 or download the SES Assistance QLD app.</content>
-<id>urn:uuid:237ae06b-2c6d-4c71-893a-048da45f4492</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>PREPARE NOW - Bluewater Creek and surrounds - FLOOD - Issued at 4pm, Friday 9 January 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Watch and Act"/>
-<content>The Charters Towers Local Disaster Management Group advises residents, businesses and travellers in the Charters Towers Local Government Area to MONITOR CONDITIONS for MINOR to MODERATE flooding on the Burdekin River at Macrossan Bridge, Sellheim. The Burdekin River at Sellheim is currently at 11.20 metres and rising, below the MINOR flood level.Renewed rises are likely at Sellheim, and the Burdekin River at Sellheim is likely to exceed the MINOR flood level (12.00 m) from Saturday afternoon. The river level may reach near the MODERATE flood level (14.00 m) during Sunday. For emergency help in floods and storms, call the QLD SES on 132 500. In life threatening situations , call Triple Zero (000) immediately.</content>
-<id>urn:uuid:1f4cf11d-02ef-4152-a4b4-bb9fdd862097</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>STAY INFORMED - Charters Towers - FLOOD - issued at 11:28am, 29 March 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Advice"/>
-<content>Longreach Regional Council advises people Isisford and surrounding areas to STAY INFORMED of flooding on the Barcoo River. Minor flooding is estimated to have eased along the Alice River at Barcaldine. Downstream, near moderate flooding is occurring along the Barcoo River at Isisford, with a moderate flood peak possible during Wednesday. For non-life-threatening flood and storm emergency assistance, contact SES on 132500, 132500.qld.gov.au, or the SES Assistance Qld app on Android or iOS. In a life-threatening situation, call Triple Zero (000) immediately.</content>
-<id>urn:uuid:fdf0a7d4-f46b-48ce-b48b-b8135e5f3a8b</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>STAY INFORMED - Isisford and surrounding areas - FLOOD - Issued at 3.30pm, Tuesday 17 March 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Emergency Warning"/>
-<content>TEST</content>
-<id>urn:uuid:0ea8fb3b-8766-4619-989c-748cf83c5263</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>TEST NOW - Testing Area - CYCLONE - Issued at 7:22am, Tuesday 7 April 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Watch and Act"/>
-<content>Charleville Local Council advises people in the following area(s) Charleville River Charleville Street Charleville Road</content>
-<id>urn:uuid:039844d5-1cd6-4031-be14-7091127f5e32</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>PREPARE NOW - Charleville - Sever Weather - Issued at 12:53am, Monday 09 March 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Watch and Act"/>
-<content>Charleville Local Council advises people in the following area(s) Charleville River Charleville Street Charleville Road</content>
-<id>urn:uuid:94e0a546-e46d-44c9-b684-559483a9083c</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>PREPARE NOW - Charleville - Sever Weather - Issued at 12:53am, Monday 09 March 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
-<entry>
-<author>
-<name>Queensland Police Service</name>
-</author>
-<category term="Advice"/>
-<content>The Burdekin Local Disaster Management Group advises people in the Burdekin Local Government Area to MONITOR CONDITIONS for MINOR flooding on the Burdekin River at Inkerman Bridge. The Burdekin River at Inkerman Bridge is currently below the MINOR flood level and may reach the MINOR flood level (7.00 m) overnight Saturday into Sunday. MINOR flooding and further rises may continue during Sunday. For emergency help in floods and storms, call the QLD SES on 132 500 or download the SES Assistance QLD App. In life threatening situations, call Triple Zero (000) immediately.</content>
-<id>urn:uuid:6a9d5775-f697-40a7-aea7-9ff000b30bc1</id>
-<link href="https://www.disaster.qld.gov.au/"/>
-<published>2026-05-06T01:03:26</published>
-<title>MONITOR CONDITIONS - Burdekin LGA - FLOOD - Issued at 11:38am, Thursday 29 March 2026</title>
-<updated>2026-05-06T01:03:26</updated>
-</entry>
+  <author>
+    <name>Queensland Police Service</name>
+  </author>
+  <id>urn:uuid:c4350152-e877-4e10-be86-43b6e36e4600</id>
+  <link href="https://www.disaster.qld.gov.au/"/>
+  <subtitle>QLD Severe Weather Alerts updated regularly</subtitle>
+  <title>QLD Severe Weather Alert Feed</title>
+  <updated>2026-06-27T12:00:00Z</updated>
+
+  <entry>
+    <author>
+      <name>Queensland Police Service</name>
+    </author>
+    <category term="Emergency Warning"/>
+    <content>POWER AUTOMATE TEST ITEM. This is a new test warning created to confirm that the RSS/Atom trigger detects a newly published feed entry.</content>
+    <id>urn:uuid:power-automate-test-20260627-0001</id>
+    <link href="https://www.disaster.qld.gov.au/"/>
+    <published>2026-06-27T12:00:00Z</published>
+    <title>TEST NOW - Power Automate Trigger Test - CYCLONE - Issued at 12:00pm, Saturday 27 June 2026</title>
+    <updated>2026-06-27T12:00:00Z</updated>
+  </entry>
+
+  <entry>
+    <author>
+      <name>Queensland Police Service</name>
+    </author>
+    <category term="Watch and Act"/>
+    <content>The Burdekin Local Disaster Management Group advises people in the Burdekin Local Government Area to MONITOR CONDITIONS for MINOR flooding on the Burdekin River at Inkerman Bridge.</content>
+    <id>urn:uuid:f2bb5dd8-854d-4b00-b4c1-50f0296a0aa7</id>
+    <link href="https://www.disaster.qld.gov.au/"/>
+    <published>2026-05-06T01:03:26Z</published>
+    <title>MONITOR CONDITIONS - Burdekin Shire Council - FLOOD - Issued at 11:00am, Tuesday 24 February 2026</title>
+    <updated>2026-05-06T01:03:26Z</updated>
+  </entry>
 </feed>
