@@ -7,19 +7,19 @@
   <link href="https://www.disaster.qld.gov.au/"/>
   <subtitle>QLD Severe Weather Alerts updated regularly</subtitle>
   <title>QLD Severe Weather Alert Feed</title>
-  <updated>2026-06-27T12:20:00Z</updated>
+  <updated>2026-06-27T13:00:00Z</updated>
 
   <entry>
     <author>
       <name>Queensland Police Service</name>
     </author>
-    <category term="Emergency Warning"/>
-    <content>TEST WARNING 2. This is a brand new warning added to verify that Power Automate detects newly published feed entries.</content>
+    <category term="Watch and Act"/>
+    <content>UPDATED TEST WARNING. Conditions have changed for Brisbane CBD. This should test the updated-warning path in the polling flow.</content>
     <id>urn:uuid:power-automate-test-20260627-0002</id>
     <link href="https://www.disaster.qld.gov.au/"/>
     <published>2026-06-27T12:20:00Z</published>
-    <title>EMERGENCY WARNING - Brisbane CBD - SEVERE STORM - Issued at 12:20pm, Saturday 27 June 2026</title>
-    <updated>2026-06-27T12:20:00Z</updated>
+    <title>WATCH AND ACT - Brisbane CBD - SEVERE STORM - Updated at 1:00pm, Saturday 27 June 2026</title>
+    <updated>2026-06-27T13:00:00Z</updated>
   </entry>
 
   <entry>
@@ -27,12 +27,24 @@
       <name>Queensland Police Service</name>
     </author>
     <category term="Emergency Warning"/>
-    <content>POWER AUTOMATE TEST ITEM. This is a new test warning created to confirm that the RSS/Atom trigger detects a newly published feed entry.</content>
-    <id>urn:uuid:power-automate-test-20260627-0001</id>
+    <content>NEW TEST WARNING. This is a brand new warning added to test the new-warning path in the polling flow.</content>
+    <id>urn:uuid:power-automate-test-20260627-0003</id>
     <link href="https://www.disaster.qld.gov.au/"/>
-    <published>2026-06-27T12:00:00Z</published>
-    <title>TEST NOW - Power Automate Trigger Test - CYCLONE - Issued at 12:00pm, Saturday 27 June 2026</title>
-    <updated>2026-06-27T12:00:00Z</updated>
+    <published>2026-06-27T13:00:00Z</published>
+    <title>EMERGENCY WARNING - Gold Coast - FLASH FLOODING - Issued at 1:00pm, Saturday 27 June 2026</title>
+    <updated>2026-06-27T13:00:00Z</updated>
   </entry>
 
+  <entry>
+    <author>
+      <name>Queensland Police Service</name>
+    </author>
+    <category term="Advice"/>
+    <content>CANCELLED TEST WARNING. This entry is included to test any cancelled or resolved warning handling in the polling flow.</content>
+    <id>urn:uuid:power-automate-test-20260627-0004</id>
+    <link href="https://www.disaster.qld.gov.au/"/>
+    <published>2026-06-27T13:00:00Z</published>
+    <title>CANCELLED - Testing Area - CYCLONE - Cancelled at 1:00pm, Saturday 27 June 2026</title>
+    <updated>2026-06-27T13:00:00Z</updated>
+  </entry>
 </feed>
