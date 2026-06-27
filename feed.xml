@@ -7,7 +7,20 @@
   <link href="https://www.disaster.qld.gov.au/"/>
   <subtitle>QLD Severe Weather Alerts updated regularly</subtitle>
   <title>QLD Severe Weather Alert Feed</title>
-  <updated>2026-06-27T12:00:00Z</updated>
+  <updated>2026-06-27T12:20:00Z</updated>
+
+  <entry>
+    <author>
+      <name>Queensland Police Service</name>
+    </author>
+    <category term="Emergency Warning"/>
+    <content>TEST WARNING 2. This is a brand new warning added to verify that Power Automate detects newly published feed entries.</content>
+    <id>urn:uuid:power-automate-test-20260627-0002</id>
+    <link href="https://www.disaster.qld.gov.au/"/>
+    <published>2026-06-27T12:20:00Z</published>
+    <title>EMERGENCY WARNING - Brisbane CBD - SEVERE STORM - Issued at 12:20pm, Saturday 27 June 2026</title>
+    <updated>2026-06-27T12:20:00Z</updated>
+  </entry>
 
   <entry>
     <author>
@@ -22,16 +35,4 @@
     <updated>2026-06-27T12:00:00Z</updated>
   </entry>
 
-  <entry>
-    <author>
-      <name>Queensland Police Service</name>
-    </author>
-    <category term="Watch and Act"/>
-    <content>The Burdekin Local Disaster Management Group advises people in the Burdekin Local Government Area to MONITOR CONDITIONS for MINOR flooding on the Burdekin River at Inkerman Bridge.</content>
-    <id>urn:uuid:f2bb5dd8-854d-4b00-b4c1-50f0296a0aa7</id>
-    <link href="https://www.disaster.qld.gov.au/"/>
-    <published>2026-05-06T01:03:26Z</published>
-    <title>MONITOR CONDITIONS - Burdekin Shire Council - FLOOD - Issued at 11:00am, Tuesday 24 February 2026</title>
-    <updated>2026-05-06T01:03:26Z</updated>
-  </entry>
 </feed>
